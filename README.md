@@ -1,13 +1,26 @@
 
 
 ```markdown
-# 🎓 EduPulse Hub — Next-Gen Student Management System
-
-
-
-An ultra-modern, SaaS-style student management dashboard built with **React 18**, **Vite**, and **Axios**. Features a premium **Glassmorphism UI layout** engineered to support full CRUD data lifecycles seamlessly connected to an upstream Spring Boot REST API and MySQL storage layer.
+🎓 EduPulse Hub — Next-Gen Student Management System
+An ultra-modern, SaaS-style student management dashboard. This application features a Glassmorphism UI powered by React, with a robust Java Spring Boot backend and MySQL database for seamless CRUD operations.
 
 ---
+📸 Project Showcase
+<img width="1714" height="1236" alt="image" src="https://github.com/user-attachments/assets/d546dedb-e677-4787-8b09-818a283d6618" />
+
+<img width="1241" height="1126" alt="image" src="https://github.com/user-attachments/assets/5c2d7ea8-6e50-481c-8fce-4148bcb97a7b" />
+
+<img width="2742" height="1686" alt="image" src="https://github.com/user-attachments/assets/c734fdfa-98e8-46e5-a447-e056a832fb07" />
+
+<img width="2860" height="1694" alt="image" src="https://github.com/user-attachments/assets/3cf0592c-741e-4300-b00e-5afda11d816e" />
+
+<img width="2868" height="1796" alt="image" src="https://github.com/user-attachments/assets/2ca104a2-29bb-40fc-ad8d-6c0d905777b4" />
+
+
+---
+---
+
+
 
 ## 🚀 Key Features
 
