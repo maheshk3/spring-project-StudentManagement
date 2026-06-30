@@ -6,15 +6,15 @@ An ultra-modern, SaaS-style student management dashboard. This application featu
 
 ---
 📸 Project Showcase
-<img width="1714" height="1236" alt="image" src="https://github.com/user-attachments/assets/d546dedb-e677-4787-8b09-818a283d6618" />
+![Dashboard](https://github.com/user-attachments/assets/d546dedb-e677-4787-8b09-818a283d6618)
 
-<img width="1241" height="1126" alt="image" src="https://github.com/user-attachments/assets/5c2d7ea8-6e50-481c-8fce-4148bcb97a7b" />
+![Student Management](https://github.com/user-attachments/assets/5c2d7ea8-6e50-481c-8fce-4148bcb97a7b)
 
-<img width="2742" height="1686" alt="image" src="https://github.com/user-attachments/assets/c734fdfa-98e8-46e5-a447-e056a832fb07" />
+![Stats Overview](https://github.com/user-attachments/assets/c734fdfa-98e8-46e5-a447-e056a832fb07)
 
-<img width="2860" height="1694" alt="image" src="https://github.com/user-attachments/assets/3cf0592c-741e-4300-b00e-5afda11d816e" />
+![Form View](https://github.com/user-attachments/assets/3cf0592c-741e-4300-b00e-5afda11d816e)
 
-<img width="2868" height="1796" alt="image" src="https://github.com/user-attachments/assets/2ca104a2-29bb-40fc-ad8d-6c0d905777b4" />
+![Theme Preview](https://github.com/user-attachments/assets/2ca104a2-29bb-40fc-ad8d-6c0d905777b4)
 
 
 ---
