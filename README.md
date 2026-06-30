@@ -51,14 +51,14 @@ src/
 ├── App.css                  # Production-ready semantic style framework
 └── main.jsx                 # Strict mode environment bootstrap mount
 
-
+```
 
 ## 🛠️ API Contract Schema Architecture
 
 The network transport driver communicates natively with your Spring Boot server. Ensure your backend matches the following mapping matrix:
 
 | Action Class | HTTP Method | Route Endpoint Target | Payload Profile / Expectations |
-| --- | --- | --- | --- |
+| :--- | :---: | :---: | :--- |
 | **Fetch Catalog** | `GET` | `/api/students` | Yields comprehensive index array of student objects |
 | **Isolate Profile** | `GET` | `/api/students/{id}` | Targets unique system numerical indicator key |
 | **Commit Registry** | `POST` | `/api/students` | Injects brand-new JSON object configuration |
@@ -77,7 +77,7 @@ The network transport driver communicates natively with your Spring Boot server.
   "dob": "2004-06-15",
   "address": "Hyderabad"
 }
-
+```
 
 ## 💻 Local Setup & Execution Guide
 
