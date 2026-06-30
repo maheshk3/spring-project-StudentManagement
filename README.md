@@ -1,11 +1,11 @@
 
 
+# 🎓 EduPulse Hub — Student Management System
+### Full-Stack Implementation: Java Spring Boot REST API & React Frontend
 
-### 🎓 EduPulse Hub — Next-Gen Student Management System
+An enterprise-grade student management platform designed with a decoupled architecture. This system leverages **Spring Boot** for high-performance RESTful API services and a **React** frontend for dynamic, responsive state management.
 
-An ultra-modern, SaaS-style student management dashboard. This application features a Glassmorphism UI powered by React, with a robust Java Spring Boot backend and MySQL database for seamless CRUD operations.
-
-### 📸 Project Showcase
+## 📸 Project Showcase
 
 <img width="1714" height="1236" alt="image" src="https://github.com/user-attachments/assets/d546dedb-e677-4787-8b09-818a283d6618" />
 
