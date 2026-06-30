@@ -3,10 +3,7 @@
 ```markdown
 # 🎓 EduPulse Hub — Next-Gen Student Management System
 
-[![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react&logoColor=white&style=flat-square)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-Latest-646CFF?logo=vite&logoColor=white&style=flat-square)](https://vitejs.dev/)
-[![Axios](https://img.shields.io/badge/Axios-1.x-5A29E4?logo=axios&logoColor=white&style=flat-square)](https://axios-http.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
+
 
 An ultra-modern, SaaS-style student management dashboard built with **React 18**, **Vite**, and **Axios**. Features a premium **Glassmorphism UI layout** engineered to support full CRUD data lifecycles seamlessly connected to an upstream Spring Boot REST API and MySQL storage layer.
 
