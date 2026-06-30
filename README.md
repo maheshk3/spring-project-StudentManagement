@@ -5,7 +5,7 @@
 
 An ultra-modern, SaaS-style student management dashboard. This application features a Glassmorphism UI powered by React, with a robust Java Spring Boot backend and MySQL database for seamless CRUD operations.
 
-##📸 Project Showcase
+### 📸 Project Showcase
 
 <img width="1714" height="1236" alt="image" src="https://github.com/user-attachments/assets/d546dedb-e677-4787-8b09-818a283d6618" />
 
